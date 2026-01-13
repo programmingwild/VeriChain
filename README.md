@@ -293,7 +293,6 @@ Credentials use this metadata structure (stored on IPFS):
 ## ❓ Why Inco FHE?
 - **Privacy-Preserving Encryption:** Inco FHE (Fully Homomorphic Encryption) allows computation on encrypted data, so sensitive credential information remains private even during processing or verification.
 - **Zero-Knowledge Proofs:** Enables verification of credentials without revealing the underlying data, ideal for privacy-centric applications.
-- **Hackathon Use Case:** Judges can see privacy features in action, even in demo mode, demonstrating advanced cryptography.
 - **Future-Proof:** FHE is a cutting-edge technology for privacy in Web3 and credentialing.
 
 ## ❓ Why Shardeum?
