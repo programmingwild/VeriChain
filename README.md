@@ -17,10 +17,10 @@ VeriChain is a decentralized credential verification system where authorized ins
 | **Chain ID**                | `8119` (Shardeum Testnet Mezame)                                      |
 | **Shardeum Testnet RPC**    | `https://api-mezame.shardeum.org`                                     |
 | **Inco FHE Enabled**        | `true` (set in `.env.local`)                                          |
-| **Pinata API Key**          | (see `.env.local`)                                                    |
-| **Pinata Secret Key**       | (see `.env.local`)                                                    |
+| **Pinata API Key**          | `d9dc0514c9f559e4af0d`                                                |
+| **Pinata Secret Key**       | `1d07fb832b29f9a42a844b740142d2277b565f0ed80c35ee3f8b49b904612aca`   |
 
-> **Note:** Update contract addresses and chain IDs in `frontend/.env.local` as needed after deployment.
+> **Note:** Update contract addresses, chain IDs, and API keys in `frontend/.env.local` as needed after deployment.
 
 ---
 
