@@ -6,6 +6,22 @@ VeriChain is a decentralized credential verification system where authorized ins
 
 ---
 
+## 📜 Essential Addresses & Configuration
+
+| Name                        | Value                                                                 |
+|-----------------------------|-----------------------------------------------------------------------|
+| **Soulbound Contract**      | `0x8464135c8F25Da09e49BC8782676a84730C318bC` (Shardeum Testnet)       |
+| **Hybrid (Inco FHE) Contract** | `0x712516e61C8B383dF4A63CFe83d7701Bce54B03e` (Shardeum Testnet)   |
+| **Chain ID**                | `8119` (Shardeum Testnet Mezame)                                      |
+| **Shardeum Testnet RPC**    | `https://api-mezame.shardeum.org`                                     |
+| **Inco FHE Enabled**        | `true` (set in `.env.local`)                                          |
+| **Pinata API Key**          | (see `.env.local`)                                                    |
+| **Pinata Secret Key**       | (see `.env.local`)                                                    |
+
+> **Note:** Update contract addresses and chain IDs in `frontend/.env.local` as needed after deployment.
+
+---
+
 ## 🎯 Core Features
 - **Soulbound Credentials:** Non-transferable NFTs that permanently bind to a recipient's wallet
 - **Institution Authorization:** Only authorized institution wallets can issue credentials
