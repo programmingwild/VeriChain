@@ -2,6 +2,8 @@
 
 Public, append-only truth for achievements — not an app.
 
+Deployed Website Link: https://verichain-phi.vercel.app/
+
 VeriChain is a decentralized credential verification system where authorized institutions issue Soulbound (non-transferable) NFT credentials to recipients, and anyone can instantly verify those credentials on-chain without intermediaries.
 
 ---
